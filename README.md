@@ -1,7 +1,10 @@
 ### Olá! Eu sou o Carlos Mensor.
 
-- 🔭 Hoje trabalho com desenvolvimento de BOTS para discord.
-- 🌱 Estou estudando PHP
+🌐 CEO RelogBots
+🔧 Desenvolvedor Lua | JS
+🔗 https://www.relogbots.com/discord
+📅 Since 31/07/2020
+
 <div>
   <a href="https://github.com/vulgofelp">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vulgofelp&show_icons=true&theme=dracula" data-canonical-src="https://github-readme-stats.vercel.app/api?username=vulgofelp&amp;show_icons=true&amp;theme=dracula&amp;include_all_commits=true&amp;count_private=true" style="max-width: 100%;">
