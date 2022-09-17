@@ -17,12 +17,12 @@
 </p>
 
 <p align="left">
-  <a href="#" alt="Gmail">
+  <a href="mailto:carlosmensor13@gmail.com" alt="Gmail">
   <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=carlosmensor13@gmail.com" /></a>
 
-  <a href="#" alt="Discord">
+  <a href="https://discord.gg/P3vyHKVV" alt="Discord">
   <img src="https://img.shields.io/badge/-Discord-5865f2?style=flat-square&labelColor=5865f2&logo=discord&logoColor=white&link=https://discord.gg/P3vyHKVV"/></a>
   
-  <a href="#" alt="Instagram">
+  <a href="https://www.instagram.com/carlosmensor_/" alt="Instagram">
   <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=LINK-DO-SEU-INSTAGRAM"/></a>
 </p>  
