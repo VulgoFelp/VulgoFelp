@@ -20,7 +20,7 @@
   <a href="mailto:carlosmensor13@gmail.com" alt="Gmail">
   <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=carlosmensor13@gmail.com" /></a>
 
-  <a href="https://discord.gg/P3vyHKVV" alt="Discord">
+  <a href="https://discord.gg/aUx2JVkqKc" alt="Discord">
   <img src="https://img.shields.io/badge/-Discord-5865f2?style=flat-square&labelColor=5865f2&logo=discord&logoColor=white&link=https://discord.gg/P3vyHKVV"/></a>
   
   <a href="https://www.instagram.com/carlosmensor_/" alt="Instagram">
